@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  font-family: Georgia;
+  background: #fdeeee;
+  text-align: center;
+}
+
+header {
+  background: #f8dede;
+  padding: 40px;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+}
+
+.post {
+  background: white;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+button {
+  background: #f2bcbc;
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 5px;
+}
+
+iframe {
+  width: 100%;
+  height: 300px;
+  border-radius: 10px;
+}
+
+.hidden {
+  display: none;
+}
+
+#dancer {
+  font-size: 60px;
+}
